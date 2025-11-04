@@ -1,8 +1,8 @@
-# 🎓 EduToken - Sistema Educativo con Blockchain
+#  EduToken - Sistema Educativo con Blockchain
 
 Smart contract ERC20 para plataforma educativa descentralizada.
 
-## 📋 Descripción
+##  Descripción
 
 EduToken es un token educativo que permite:
 - Recompensar estudiantes por completar cursos
@@ -11,7 +11,7 @@ EduToken es un token educativo que permite:
 - Compra de cursos con tokens
 - Funciones de seguridad (pause/unpause)
 
-## ✨ Características Principales
+##  Características Principales
 
 - ✅ **Tokenomics completo**: Supply máximo, decimales, símbolo
 - ✅ **Sistema de recompensas**: Los estudiantes reciben tokens por completar cursos
@@ -21,13 +21,13 @@ EduToken es un token educativo que permite:
 - ✅ **Seguridad**: Funciones de pausa de emergencia
 - ✅ **Pool de recompensas**: Sistema de fondeo para incentivos
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **Solidity** 0.8.20
 - **OpenZeppelin Contracts** v5.0.0
 - **Remix IDE** para desarrollo y testing
 
-## 📊 Tokenomics
+##  Tokenomics
 
 - **Nombre**: EduToken
 - **Símbolo**: EDVR
@@ -35,7 +35,7 @@ EduToken es un token educativo que permite:
 - **Supply inicial**: 100,000,000 EDVR
 - **Supply máximo**: 1,000,000,000 EDVR
 
-## 🚀 Funcionalidades Implementadas
+##  Funcionalidades Implementadas
 
 ### Gestión de Usuarios
 - Registro de instructores
@@ -61,14 +61,10 @@ EduToken es un token educativo que permite:
 - Funciones protegidas por roles
 - Validaciones de saldo y permisos
 
-## 📸 Evidencias
-
-Ver carpeta `/screenshots` para capturas de pantalla de las pruebas realizadas.
-
 ## 👨‍💻 Autor
 
 Dayana Alison
 
 ## 📄 Licencia
 
-Proyecto académico - [Tu Universidad]
+Proyecto académico - [CERTUS]
